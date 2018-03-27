@@ -224,3 +224,6 @@ Save data in database.
 #### Step 11,12,13:
 Reply user with appropriate message 
 Payment success/failure.
+
+
+![Throughput Graph](https://github.com/PiyushMittl/-paymentgateway_payumoney/blob/master/payumoney.png)
